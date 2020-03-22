@@ -1,6 +1,6 @@
 # **MISC**
 
-## BLACK^YELLOW:
+## BLACK^YELLOW (1000 pts):
 ![](/BLACK^YELLOW/Task.png)
 
 link : https://gofile.io/?c=QoxGao
