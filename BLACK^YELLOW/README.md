@@ -6,6 +6,8 @@
 link : https://gofile.io/?c=QoxGao
 
 
+## Solution:
+
 So we've got first a password protected zip file [part1.zip](https://gofile.io/?c=QoxGao) and a png [Darlene.png](/BLACK^YELLOW/Darlene.png). From the task name we know we are going to work with those BLACK and YELLOW dots in the photo (you can spot them on the top-left corner):
 
 ![](/BLACK^YELLOW/Darlene.png) 
