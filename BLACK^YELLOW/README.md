@@ -25,7 +25,7 @@ We can see the first string seems to be base64 encoded and we can spot the seper
 The second string is pretty obvious: 
 *123abc456wixandmix*
  
-Reffering to the title once again, we need to xor those two strings and we get : 
+Referring to the title once again, we need to xor those two strings and we get : 
 **working with darlene is so priceless , lets catch WHITEROSE! pwd:3z_t0_foll0w_UP_th1s_0n3**
 
 [Script](/BLACK^YELLOW/solve.py)
